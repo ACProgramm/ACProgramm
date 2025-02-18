@@ -1,22 +1,36 @@
-👋 Hey there! I'm Andrey
-🚀 Passionate C++ Developer, crafting high-performance applications and exploring new technologies.
+# 👋 Hey there! I'm Andrey 🚀  
 
-Currently, I'm working on C++ applications for both GUI (Qt) and server-side development. At the same time, I'm diving deeper into Qt Framework, Boost.Asio, and Linux development, constantly improving my skills and seeking elegant solutions.
+I'm a **C++ Developer** passionate about **high-performance applications** and always looking to refine my skills.  
 
-I enjoy writing clean, efficient, and scalable code, following best practices, design patterns, and multithreading principles. Working across both Windows and Linux, I focus on performance optimization and architecture. Alongside that, I have some experience in full-stack development, which helps me understand how systems work as a whole.
+💻 **Currently working on:**  
+- Developing **GUI applications (Qt)** and **server-side solutions**  
+- Improving expertise in **Linux, multithreading, and architecture design**  
+- Learning **full-stack development**, to better understand system-wide interactions  
 
-🛠 Tech Stack & Expertise
-💡 C++ – My primary language, where I feel most at home.
-📚 STL & Design Patterns – Leveraging the power of standard libraries and writing structured, maintainable code.
-⚙️ Multithreading & Performance Optimization – Making applications fast and efficient.
-🖥 Qt Framework – Building modern GUI applications.
-🐧 Linux & Windows Development – Comfortable working in both environments.
-📌 CMake – Managing builds and project configurations.
-🐘 PostgreSQL – Understanding relational databases and data handling.
-🛠 Git – Keeping track of changes, collaborating seamlessly.
+I enjoy writing **clean, efficient, and scalable code**, applying **best practices, design patterns**, and performance optimization techniques.  
 
-🎵 Beyond Coding
-Outside of development, I’m into football, equestrian sports, music, and financial analysis. Whether it's strategizing on the field, enjoying a good ride, diving into market trends, or just vibing to great music, I believe a balance of interests fuels creativity.
+---
 
-Always open to new challenges, collaborations, and exciting projects. Let’s build something amazing together! 🚀
+## 🛠 **Tech Stack & Expertise**  
 
+🔹 **C++** – My primary language, where I feel most at home  
+🔹 **STL & Design Patterns** – Leveraging standard libraries for structured, maintainable code  
+🔹 **Multithreading & Performance Optimization** – Writing concurrent, high-performance applications  
+🔹 **Qt Framework** – Developing modern GUI applications  
+🔹 **Linux & Windows Development** – Comfortable working in both environments  
+🔹 **CMake** – Managing builds and project configurations  
+🔹 **PostgreSQL** – Designing and optimizing relational databases  
+🔹 **Git** – Keeping track of changes and collaborating efficiently  
+
+---
+
+## 🎵 **Beyond Coding**  
+
+⚽ **Football** – Love both playing and watching matches!  
+🏇 **Equestrian Sports** – Passionate about horse riding and training  
+🎵 **Music** – Always coding with good tunes in the background  
+📊 **Financial Analysis** – Exploring market trends and investment strategies  
+
+---
+
+🌟 Always open to **new challenges, collaborations, and exciting projects**. Let’s build something amazing together! 🚀  
