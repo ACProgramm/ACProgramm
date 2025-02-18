@@ -24,6 +24,13 @@ I enjoy writing **clean, efficient, and scalable code**, applying **best practic
 
 ---
 
+## 🌍 **Socials**  
+
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/anarakses)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andreic22)  
+
+---
+
 ## 🎵 **Beyond Coding**  
 
 ⚽ **Football** – Love both playing and watching matches!  
