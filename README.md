@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Andrey 🚀  
 
-🎓 I'm a student at **Moscow Polytechnic University**, studying to become a **Fullstack Developer** and constantly expanding my skills.  
+🎓 I'm a student at **Moscow Polytechnic University**, studying **Fullstack Development**.  
 
 💙 I have a strong interest in **C++** and love exploring its capabilities in both **GUI (Qt)** and **server-side development**. Currently, I'm diving deeper into **Linux, multithreading, and architecture design**. My Fullstack studies help me understand how different parts of a system interact, making my development approach more holistic.  
 
