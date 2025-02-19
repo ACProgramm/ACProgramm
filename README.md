@@ -8,7 +8,6 @@ I enjoy writing **clean, efficient, and scalable code**, applying **best practic
 
 ---
 
-
 ## 🛠 **Tech Stack & Expertise**  
 
 🔹 **C++** – My favorite language, where I feel most at home  
