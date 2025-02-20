@@ -35,7 +35,7 @@ I enjoy writing **clean, efficient, and scalable code**, applying **best practic
 🏇 **Equestrian Sports** – Passionate about horse riding and training  
 🎵 **Music** – Always coding with good tunes in the background  
 📊 **Financial Analysis** – Exploring market trends and investment strategies  
-🌍 **English Language** – Constantly improving my skills  
+🌍 **English Language** – Improving my skills  
 
 ---
 
