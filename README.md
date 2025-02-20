@@ -11,14 +11,23 @@ I enjoy writing **clean, efficient, and scalable code**, applying **best practic
 ## 🛠 **Tech Stack & Expertise**  
 
 🔹 **C++** 
+
 🔹 **STL & Design Patterns**
+
 🔹 **Multithreading & Performance Optimization**
+
 🔹 **Qt Framework**
+
 🔹 **Linux & Windows Development**
+
 🔹 **CMake**  
+
 🔹 **PostgreSQL** 
+
 🔹 **Git** 
+
 🔹 **Fullstack Development** 
+
 🔹 **English (B2 level)**
 
 ---
