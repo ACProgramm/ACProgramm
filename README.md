@@ -10,16 +10,16 @@ I enjoy writing **clean, efficient, and scalable code**, applying **best practic
 
 ## 🛠 **Tech Stack & Expertise**  
 
-🔹 **C++** – My favorite language, where I feel most at home  
-🔹 **STL & Design Patterns** – Leveraging standard libraries for structured, maintainable code  
-🔹 **Multithreading & Performance Optimization** – Writing concurrent, high-performance applications  
-🔹 **Qt Framework** – Developing modern GUI applications  
-🔹 **Linux & Windows Development** – Comfortable working in both environments  
-🔹 **CMake** – Managing builds and project configurations  
-🔹 **PostgreSQL** – Designing and optimizing relational databases  
-🔹 **Git** – Keeping track of changes and collaborating efficiently  
-🔹 **Fullstack Development** – Understanding both backend and frontend principles  
-🔹 **English (B2 level)** – Comfortable working with documentation and communication  
+🔹 **C++** 
+🔹 **STL & Design Patterns**
+🔹 **Multithreading & Performance Optimization**
+🔹 **Qt Framework**
+🔹 **Linux & Windows Development**
+🔹 **CMake**  
+🔹 **PostgreSQL** 
+🔹 **Git** 
+🔹 **Fullstack Development** 
+🔹 **English (B2 level)**
 
 ---
 
