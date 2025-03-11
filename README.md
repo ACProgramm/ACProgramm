@@ -2,7 +2,7 @@
 
 🎓 I'm a student at **Moscow Polytechnic University**, studying **Fullstack Development**.  
 
-💙 I have a strong interest in **C++** and love exploring its capabilities in both **GUI (Qt)** and **server-side development**. Currently, I'm diving deeper into **Linux, multithreading, and architecture design**. My Fullstack studies help me understand how different parts of a system interact, making my development approach more holistic.  
+💙 I have a strong interest in **C++** and love exploring its capabilities in both **GUI (Qt)** and **server-side development**. Currently, I'm diving deeper into **Linux, multithreading, and architecture design**.
 
 I enjoy writing **clean, efficient, and scalable code**, applying **best practices, design patterns**, and performance optimization techniques.  
 
@@ -12,9 +12,7 @@ I enjoy writing **clean, efficient, and scalable code**, applying **best practic
 
 🔹 **C++** 
 
-🔹 **STL & Design Patterns**
-
-🔹 **Multithreading & Performance Optimization**
+🔹 **STL**
 
 🔹 **Qt Framework**
 
@@ -41,11 +39,10 @@ I enjoy writing **clean, efficient, and scalable code**, applying **best practic
 ## 🎵 **Beyond Coding**  
 
 ⚽ **Football** – Love both playing and watching matches!  
-🏇 **Equestrian Sports** – Passionate about horse riding and training  
-🎵 **Music** – Always coding with good tunes in the background  
+🏇 **Equestrian Sports** – Passionate about horse riding and training   
 📊 **Financial Analysis** – Exploring market trends and investment strategies  
 🌍 **English Language** – Improving my skills  
 
 ---
 
-🌟 Always open to **new challenges, collaborations, and exciting projects**. Let’s build something amazing together! 🚀  
+🌟 Always open to **new challenges, and exciting projects**. Let’s build something amazing together! 🚀  
