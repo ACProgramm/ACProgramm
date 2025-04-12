@@ -6,7 +6,7 @@
 
 I enjoy writing **clean, efficient, and scalable code**, applying **best practices, design patterns**, and performance optimization techniques.  
 
----
+--
 -
 ## 🛠 **Tech Stack & Expertise**  
 
